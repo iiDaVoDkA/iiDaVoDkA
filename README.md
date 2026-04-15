@@ -1,33 +1,81 @@
-# Hassen Ben Amor
+# Hey, I'm Hassen 👋
 
-**Fullstack Developer (Python / React) | Data & AI**
+Fullstack Developer (Python / React) • Data & AI @ EFREI Paris
 
-I'm a Data & AI engineering student at **EFREI Paris** and I enjoy building software end-to-end: from APIs and data pipelines to frontend experiences.
+I build things end-to-end — from raw data → pipelines → APIs → usable products.
 
-**Looking for a 12-month apprenticeship starting Sept 2026 (Paris, France).**
+Currently looking for a **12-month apprenticeship (Sept 2026, Paris)**.
 
-## What I do
-- Build and document **REST APIs** and backend services (Python / Node.js)
-- Design **data pipelines** (ingestion, validation, transformation, monitoring)
-- Deliver features with a production mindset (tests, CI/CD, Git best practices)
+---
 
-## Tech stack
-- **Python:** Pandas, NumPy, scikit-learn
-- **JS/TS:** React, Node.js/Express
-- **Data:** SQL (MySQL/Oracle/PLSQL), MongoDB
-- **Ops:** Docker, Git, GitHub Actions
-- **AI & RAG:** LangChain, document ingestion/retrieval, vector DBs
+## 🚀 What I actually do
 
-## Public projects
-- **Hostly SaaS Platform** – React frontend + Node.js microservices and REST APIs
-- **RAG / Context indexing platform** – ingestion & retrieval over documents, databases, APIs (with traceable answers)
-- **PCA project** – Jupyter Notebook for data analysis / PCA
-- **Graph theory scheduling** – scheduling logic and optimization approach
+- Build **real backend systems** (Python / Node.js, REST APIs)
+- Design **data pipelines** (ingestion → validation → transformation → monitoring)
+- Ship features with a **production mindset** (tests, CI/CD, clean Git)
 
-## Certifications & languages
-- Certifications: **Google Data Analytics**, **Meta React / React Native**, **TOEIC 985/990**
-- Languages: **Arabic (native)**, **French (C1)**, **English (C2)**
+I like when things work in production, not just in notebooks.
 
-## Contact
-- Email: **hassen.ben-amor@efrei.net**
+---
+
+## 🧠 Tech I use
+
+**Backend / Data**
+- Python (Pandas, NumPy, scikit-learn)
+- SQL (MySQL, Oracle, PL/SQL)
+- MongoDB
+
+**Frontend**
+- React / TypeScript
+
+**Infra / Tools**
+- Docker, Git, GitHub Actions
+
+**AI / RAG**
+- LangChain
+- Document ingestion & retrieval
+- Vector databases
+
+---
+
+## 🏗️ Projects I'm proud of
+
+### 🏨 Hostly — SaaS Platform
+Fullstack platform for hotels  
+→ React frontend + Node.js microservices  
+→ APIs, deployment, real-world usage  
+
+### 🧩 Context Indexing Platform (RAG)
+A system to **search by meaning, not keywords**  
+→ Ingests PDFs, databases, APIs  
+→ Returns **traceable answers with sources**
+
+### 📊 PCA Project
+Data analysis + dimensionality reduction (Jupyter)
+
+### 🔗 Graph Scheduling
+Optimization logic using graph theory
+
+---
+
+## 📜 Certifications & Languages
+
+- Google Data Analytics  
+- Meta React / React Native  
+- TOEIC: **985/990**
+
+Languages:
+- Arabic (native)
+- French (C1)
+- English (C2)
+
+---
+
+## 📫 Contact
+
+- Email: hassen.ben-amor@efrei.net
 - GitHub: https://github.com/iiDaVoDkA
+
+---
+
+> I like building systems that connect data, logic, and real users.
