@@ -4,7 +4,7 @@ Fullstack Developer (Python / React) • Data & AI @ EFREI Paris
 
 I build things end-to-end — from raw data → pipelines → APIs → usable products.
 
-Currently looking for a **12-month apprenticeship (Sept 2026, Paris)**.
+Currently looking for a **12-month apprenticeship (Nov 2026, Paris)**.
 
 ---
 
